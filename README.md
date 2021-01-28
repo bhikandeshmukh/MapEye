@@ -96,7 +96,7 @@ Available Templates :
 ```bash
 $ git clone https://github.com/bhikandeshmukh/MapEye.git
 $ cd MapEye
-$ python3 mapeye.py.py -t manual -k testkml
+$ python3 mapeye.py -t manual -k testkml
 ```
 Choose Options Batween 0 to 3
 
