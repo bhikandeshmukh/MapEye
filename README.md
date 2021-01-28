@@ -10,10 +10,11 @@
 
   <br>
 
-###### <p align="center"> MapEye
-<br>
+###### <p align="center"> *MapEye*
 
-<img src="res/mapeye.png"></p>
+  <br>
+
+<p align="center"><img src="res/mapeye.png"></p>
 
 ###### <p align="center">Accurate GPS Location Tracker (Android, IOS, Windows phones.)<p align="center">
 <p align=center>
@@ -184,7 +185,7 @@ Usage of the tool for attacking targets without prior mutual consent is illegal.
 
 Developer / Author: [Mr. Bee](https://www.instagram.com/bhikan_deshmukh/)
 
-### <h2 align="center">To Know about Ethical Hacking , Android And Kali Linux Do ♨️ Follow ♨️ Us:-</h2>
+### <p align="center">*To Know about Ethical Hacking , Android And Kali Linux Do ♨️ Follow ♨️ Us:-*</p>
 <p align="center">
 <a href="https://www.instagram.com/bhikan_deshmukh/"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://wa.me/918600525401"><img title="whatsapp" src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
