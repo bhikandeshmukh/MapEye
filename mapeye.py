@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 R = '\033[31m' # red
-G = '\033[32m' # green
-C = '\033[36m' # cyan
+G = '\033[31m' # red
+C = '\033[0m' #  white
 W = '\033[0m'  # white
 
 from shutil import which

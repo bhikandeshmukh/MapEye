@@ -1,19 +1,55 @@
-[Sat Aug 24 10:03:14 2019] 127.0.0.1:46454 [200]: /nearyou/index.html
-[Sat Aug 24 10:03:27 2019] 127.0.0.1:46460 [200]: /nearyou/
-[Sat Aug 24 10:03:27 2019] 127.0.0.1:46464 [200]: /nearyou/css/main.css
-[Sat Aug 24 10:03:27 2019] 127.0.0.1:46468 [200]: /nearyou/js/main.js
-[Sat Aug 24 10:03:27 2019] 127.0.0.1:46472 [200]: /nearyou/js/location.js
-[Sat Aug 24 10:03:27 2019] 127.0.0.1:46476 [200]: /nearyou/js/warpspeed.min.js
-[Sat Aug 24 10:03:27 2019] 127.0.0.1:46480 [200]: /nearyou/js/info.js
-[Sat Aug 24 10:03:28 2019] 127.0.0.1:46484 [200]: /nearyou/
-[Sat Aug 24 10:03:29 2019] 127.0.0.1:46488 [200]: /nearyou/css/main.css
-[Sat Aug 24 10:03:29 2019] 127.0.0.1:46492 [200]: /nearyou/js/main.js
-[Sat Aug 24 10:03:29 2019] 127.0.0.1:46496 [200]: /nearyou/js/location.js
-[Sat Aug 24 10:03:29 2019] 127.0.0.1:46500 [200]: /nearyou/js/info.js
-[Sat Aug 24 10:03:29 2019] 127.0.0.1:46504 [200]: /nearyou/js/warpspeed.min.js
-[Sat Aug 24 10:03:30 2019] 127.0.0.1:46508 [200]: /nearyou/php/info.php
-[Sat Aug 24 10:03:32 2019] 127.0.0.1:46512 [200]: /nearyou/php/result.php
-PHP 7.3.8 Development Server started at Sat Aug 24 10:03:12 2019
-Listening on http://127.0.0.1:8080
-Document root is /home/unknown/tools/seeker/template
-Press Ctrl-C to quit.
+[Wed Feb 10 22:43:59 2021] PHP 7.4.5 Development Server (http://0.0.0.0:8080) started
+[Wed Feb 10 22:44:02 2021] 127.0.0.1:42270 Accepted
+[Wed Feb 10 22:44:02 2021] 127.0.0.1:42270 [200]: (null) /index.html
+[Wed Feb 10 22:44:02 2021] 127.0.0.1:42270 Closing
+[Wed Feb 10 22:45:18 2021] 127.0.0.1:42286 Accepted
+[Wed Feb 10 22:45:18 2021] 127.0.0.1:42286 [200]: (null) /
+[Wed Feb 10 22:45:18 2021] 127.0.0.1:42286 Closing
+[Wed Feb 10 22:45:30 2021] 127.0.0.1:42326 Accepted
+[Wed Feb 10 22:45:30 2021] 127.0.0.1:42326 [200]: (null) /
+[Wed Feb 10 22:45:30 2021] 127.0.0.1:42326 Closing
+[Wed Feb 10 22:45:32 2021] 127.0.0.1:42332 Accepted
+[Wed Feb 10 22:45:32 2021] 127.0.0.1:42334 Accepted
+[Wed Feb 10 22:45:32 2021] 127.0.0.1:42332 [200]: (null) /js/main.js
+[Wed Feb 10 22:45:32 2021] 127.0.0.1:42338 Accepted
+[Wed Feb 10 22:45:32 2021] 127.0.0.1:42334 [200]: (null) /css/main.css
+[Wed Feb 10 22:45:32 2021] 127.0.0.1:42338 [200]: (null) /js/location.js
+[Wed Feb 10 22:45:32 2021] 127.0.0.1:42332 Closing
+[Wed Feb 10 22:45:32 2021] 127.0.0.1:42334 Closing
+[Wed Feb 10 22:45:32 2021] 127.0.0.1:42338 Closing
+[Wed Feb 10 22:45:33 2021] 127.0.0.1:42344 Accepted
+[Wed Feb 10 22:45:33 2021] 127.0.0.1:42346 Accepted
+[Wed Feb 10 22:45:33 2021] 127.0.0.1:42344 [200]: (null) /js/warpspeed.min.js
+[Wed Feb 10 22:45:33 2021] 127.0.0.1:42346 [200]: (null) /js/info.js
+[Wed Feb 10 22:45:33 2021] 127.0.0.1:42344 Closing
+[Wed Feb 10 22:45:33 2021] 127.0.0.1:42346 Closing
+[Wed Feb 10 22:45:40 2021] 127.0.0.1:42354 Accepted
+[Wed Feb 10 22:45:40 2021] 127.0.0.1:42354 [200]: (null) /
+[Wed Feb 10 22:45:40 2021] 127.0.0.1:42354 Closing
+[Wed Feb 10 22:45:41 2021] 127.0.0.1:42358 Accepted
+[Wed Feb 10 22:45:41 2021] 127.0.0.1:42358 [200]: (null) /css/main.css
+[Wed Feb 10 22:45:41 2021] 127.0.0.1:42362 Accepted
+[Wed Feb 10 22:45:41 2021] 127.0.0.1:42358 Closing
+[Wed Feb 10 22:45:41 2021] 127.0.0.1:42362 [200]: (null) /js/main.js
+[Wed Feb 10 22:45:41 2021] 127.0.0.1:42362 Closing
+[Wed Feb 10 22:45:43 2021] 127.0.0.1:42366 Accepted
+[Wed Feb 10 22:45:43 2021] 127.0.0.1:42366 [200]: (null) /js/location.js
+[Wed Feb 10 22:45:43 2021] 127.0.0.1:42366 Closing
+[Wed Feb 10 22:45:43 2021] 127.0.0.1:42370 Accepted
+[Wed Feb 10 22:45:43 2021] 127.0.0.1:42370 [200]: (null) /js/info.js
+[Wed Feb 10 22:45:43 2021] 127.0.0.1:42370 Closing
+[Wed Feb 10 22:45:43 2021] 127.0.0.1:42374 Accepted
+[Wed Feb 10 22:45:43 2021] 127.0.0.1:42374 [200]: (null) /js/warpspeed.min.js
+[Wed Feb 10 22:45:43 2021] 127.0.0.1:42374 Closing
+[Wed Feb 10 22:45:50 2021] 127.0.0.1:42378 Accepted
+[Wed Feb 10 22:45:50 2021] 127.0.0.1:42378 [200]: POST /php/info.php
+[Wed Feb 10 22:45:50 2021] 127.0.0.1:42378 Closing
+[Wed Feb 10 22:45:51 2021] 127.0.0.1:42382 Accepted
+[Wed Feb 10 22:45:51 2021] 127.0.0.1:42382 [200]: POST /php/result.php
+[Wed Feb 10 22:45:51 2021] 127.0.0.1:42382 Closing
+[Wed Feb 10 22:45:53 2021] 127.0.0.1:42386 Accepted
+[Wed Feb 10 22:45:53 2021] 127.0.0.1:42386 [200]: POST /php/result.php
+[Wed Feb 10 22:45:53 2021] 127.0.0.1:42386 Closing
+[Wed Feb 10 22:46:03 2021] 127.0.0.1:42390 Accepted
+[Wed Feb 10 22:46:03 2021] 127.0.0.1:42390 [200]: POST /php/result.php
+[Wed Feb 10 22:46:03 2021] 127.0.0.1:42390 Closing
